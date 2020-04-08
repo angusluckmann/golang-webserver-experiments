@@ -3,4 +3,4 @@ This repository contains a few little test programs to experiment with the webse
 
 These examples are licensed under the Apache 2.0 License.
 
-**example-01** shows how to build a really simple webserver with the help of the golang standard library.
+**experiment-01** shows how to build a really simple webserver with the help of the golang standard library.
